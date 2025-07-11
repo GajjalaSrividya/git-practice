@@ -1,0 +1,15 @@
+# Ignore build and IDE folders
+target/
+build/
+.idea/
+.vscode/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment secrets
+.env
+
+# Ignore all log files
+*.log
